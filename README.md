@@ -1,4 +1,8 @@
-### Hi there 👋
+### Manoel Braz Maciel 👋
+##### Técnico de Rede / Tecnólogo em Sistemas para Internet
+
+- 🔭 I’m currently working on FREELANCER ...
+- 🌱 I’m currently learning Spring and React ...
 
 <!--
 **manoelmaciel/manoelmaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
