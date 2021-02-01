@@ -1,9 +1,12 @@
 ### Manoel Braz Maciel
-
 ##### Técnico de Rede / Tecnólogo em Sistemas para Internet
 
-- I’m currently working as a FREELANCER ...
-- I’m currently learning Spring and React ...
+- Estou trabalhabdo como FREELANCER ...
+- Estou estudando:
+1. Spring 
+a. Java voltado principalmente para a Web
+2. React
+a. JavaScript, HTML e CSS
 
 <!--
 **manoelmaciel/manoelmaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
