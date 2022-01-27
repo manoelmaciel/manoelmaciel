@@ -3,4 +3,6 @@
 - Trabalhando atualmente como FREELANCER
 - Estudando com afinco ...
 >1. Java voltado principalmente para a Web
->2. JavaScript, HTML e CSS
+>2. Spring
+>3. JavaScript, HTML e CSS
+>4. React
